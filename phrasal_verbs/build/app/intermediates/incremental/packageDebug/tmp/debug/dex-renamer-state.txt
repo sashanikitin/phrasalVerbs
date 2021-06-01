@@ -1,0 +1,4 @@
+#Tue Jun 01 07:11:55 EEST 2021
+base.0=/home/alex/phrasalVerbs/phrasal_verbs/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

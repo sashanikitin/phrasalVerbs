@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+oleksandr/nikitin/phrasal_verbs/BuildConfig.java
+ oleksandr.nikitin.phrasal_verbs.BuildConfig
